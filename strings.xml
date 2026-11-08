@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ST Fashion Creative House</string>
+    <string name="app_tagline">AI Powered Fashion Studio for Smart Clothing Reconstruction</string>
+
+    <!-- Navigation Modules -->
+    <string name="module_product_photo">AI Product Photo Maker</string>
+    <string name="module_product_photo_bn">এআই প্রোডাক্ট ফটো মেকার</string>
+    <string name="module_video_maker">AI Video Maker</string>
+    <string name="module_video_maker_bn">এআই ভিডিও মেকার</string>
+    <string name="module_mannequin">AI Mannequin Generator</string>
+    <string name="module_mannequin_bn">এআই ম্যানিকুইন জেনারেটর</string>
+    <string name="module_photo_editor">AI Photo Editor</string>
+    <string name="module_photo_editor_bn">এআই ফটো এডিটর</string>
+    <string name="module_poster_ad">AI Poster &amp; Ad Maker</string>
+    <string name="module_poster_ad_bn">এআই পোস্টার ও অ্যাড মেকার</string>
+
+    <!-- 30-Day Deletion (Strict 30 days without intrusive alerts) -->
+    <string name="auto_delete_title">30-Day Auto File Deletion</string>
+    <string name="auto_delete_notice">All app-managed uploads and generated media are strictly and automatically purged after 30 days to protect studio privacy and conserve memory.</string>
+
+    <!-- Bengali Voice Commands -->
+    <string name="voice_cmd_1">এই কালারটা আরেকটু সুন্দর করো</string>
+    <string name="voice_cmd_2">শার্পনেস বাড়াও</string>
+    <string name="voice_cmd_3">এমব্রয়ডারি আরও স্পষ্ট করো</string>
+    <string name="voice_cmd_4">ব্যাকগ্রাউন্ড টা প্রিমিয়াম করো</string>
+    <string name="voice_cmd_5">তোমার মতে ছবিটা আরও সুন্দর করে দাও</string>
+</resources>
